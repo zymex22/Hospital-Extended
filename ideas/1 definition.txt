@@ -1,0 +1,5 @@
+t0 Neolithic (tribal)
+t1 Medieval (Medieval)
+t2 Industrial (industrial age)
+t3 Industrial (tech)
+t4 Spacer (hi-tech)
