@@ -1,2 +1,42 @@
-# Gloomy-Extra---Hospital-Extension
-Gloomy Extra - Hospital Extension
+# Gloomy Extra - Hospital Extension
+
+## --- WIP ---
+(anything in this mod can be changed at anytime before full release)  
+  
+Idea behind this mod is to make one complete medical / hospital equipment mod.
+it will focus on 5 ages:
+T0 - Tribal (start / early)(Gloomy style)
+T1 - Medieval (early)(Gloomy style)
+T2 - Industrial Age (mid game)(Gloomy/Steampunk style)
+T3 - Industrial (tech stuff)(Vanilla style)
+T4 - Spacer (high tech / end game) (Vanilla style)
+
+### Mod will add:
+- Decor items
+- Linkables
+- Structures
+- Items
+- Patches/compabilitiy for other medic mods
+- Researches relavant
+- Mod settings to turn of different tiers. (t1, t2, t3)
+
+### Mod will not include:
+- Medicine
+- Drugs
+- bodyparts...
+
+All items will be focued around hospital stuff, maybe at some point Psych ward / Assylum too
+
+
+Inspiration is from mods like: fast regen, medicaddons, life support, medic IV and more.  
+Theme T0-T2 is made from GloomyLynx Gloomy furniture mod  
+Theme T3-T4 Will be made in vanilla style textures, as gloomy dosent fit spacer stuff.  
+
+## Goal
+Goal is this mod will be a All in One Medical equipment mod instead have to  use 3-8 mods for that.
+
+
+
+
+// Made by ATS  
+Augmented Turtle Squad
