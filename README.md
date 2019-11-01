@@ -1,6 +1,5 @@
 # Gloomy Extra - Hospital Extension
-
-## --- WIP ---
+![alt text](http://www.foxbyrd.com/wp-content/uploads/2018/02/file-4.jpg "Work in progress")
 (anything in this mod can be changed at anytime before full release)  
   
 Idea behind this mod is to make one complete medical / hospital equipment mod.
@@ -29,14 +28,15 @@ All items will be focued around hospital stuff, maybe at some point Psych ward /
 
 
 Inspiration is from mods like: fast regen, medicaddons, life support, medic IV and more.  
-Theme T0-T2 is made from GloomyLynx Gloomy furniture mod  
+Theme T0-T2 is made from GloomyLynx Gloomy furniture mod.  
 Theme T3-T4 Will be made in vanilla style textures, as gloomy dosent fit spacer stuff.  
 
 ## Goal
-Goal is this mod will be a All in One Medical equipment mod instead have to  use 3-8 mods for that.
-
-
-
-
+Goal is this mod will be a All-in-One Medical Equipment mod instead have to  use 3-8 mods for that.  
+Will still be dependent of of using mods like EPOE, QEE, Medicine production and such...  
+  
+Please feel free to contribute to this mod with ideas, work, textures, or other.  
+you can open an issue and we will look at it.  
+  
 // Made by ATS  
 Augmented Turtle Squad
