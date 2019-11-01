@@ -1,0 +1,18 @@
+<Manifest>
+
+  <version>1.0.0</version>
+  <dependencies>
+    <li>GloomyFurniture</li>
+    <li>DUB DUB DUB!</li>
+  </dependencies>
+  <incompatibleWith>
+  </incompatibleWith>
+  <loadAfter>
+  </loadAfter>
+  <suggests>
+  </suggests>
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri>https://raw.githubusercontent.com/zymex22/Gloomy-Vanilla-overhaul/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/zymex22/Gloomy-Vanilla-overhaul/releases</downloadUri>
+
+</Manifest>
