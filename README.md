@@ -40,3 +40,9 @@ you can open an issue and we will look at it.
   
 // Made by ATS  
 Augmented Turtle Squad
+
+
+colab mods / credit in here or edited versions:
+- Captain Stakys - Red Sterile Tile https://steamcommunity.com/sharedfiles/filedetails/?id=1273442199
+- Sulusdacors - [sd] medicaddons https://steamcommunity.com/sharedfiles/filedetails/?id=786233894
+- Dr Zhivagos - DocWalledVitals https://steamcommunity.com/sharedfiles/filedetails/?id=1580375043
