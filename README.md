@@ -46,3 +46,12 @@ colab mods / credit in here or edited versions:
 - Captain Stakys - Red Sterile Tile https://steamcommunity.com/sharedfiles/filedetails/?id=1273442199
 - Sulusdacors - [sd] medicaddons https://steamcommunity.com/sharedfiles/filedetails/?id=786233894
 - Dr Zhivagos - DocWalledVitals https://steamcommunity.com/sharedfiles/filedetails/?id=1580375043
+
+maybe/waiting?
+- fast regen
+- Life support
+- Harvest organs post mortem / patch (morgue table with autopsy med. training and/or harvesting)
+- Medical Training (morgue table with autopsy med. training and/or harvesting)
+- Medical IV
+- VFE - medical module patch
+- Glitter world patch
