@@ -1,4 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<DesignatorDropdownGroupDef>
+		<defName>SterileTileGroup</defName>
+	</DesignatorDropdownGroupDef>
+</Defs>
+
 <Defs>
   <TerrainDef Name="ColourTileBase" ParentName="FloorBase" Abstract="True">
     <texturePath>Things/Structure/SterileFloorTile</texturePath>
