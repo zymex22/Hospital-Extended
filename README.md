@@ -19,6 +19,9 @@ T4 - Spacer (high tech / end game) (Vanilla style)
 - Researches relavant
 - Mod settings to turn of different tiers. (t1, t2, t3)
 
+### Sugessted Compatible mods for more extension:
+- Vanilla Furniture Expanded - Medical Module
+
 ### Mod will not include:
 - Medicine
 - Drugs
@@ -44,8 +47,15 @@ Augmented Turtle Squad
 
 colab mods / credit in here or edited versions:
 - Captain Stakys - Red Sterile Tile https://steamcommunity.com/sharedfiles/filedetails/?id=1273442199
+
+Waiting:
 - Sulusdacors - [sd] medicaddons https://steamcommunity.com/sharedfiles/filedetails/?id=786233894
 - Dr Zhivagos - DocWalledVitals https://steamcommunity.com/sharedfiles/filedetails/?id=1580375043
+
+Inspiration and Ideas Credit:
+- VFE Medical Module (wall idea)
+- Gloomy furniture for early ages textures
+
 
 maybe/waiting?
 - fast regen
@@ -55,3 +65,6 @@ maybe/waiting?
 - Medical IV
 - VFE - medical module patch
 - Glitter world patch
+
+
+
