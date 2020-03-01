@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Gloomy Extra - Bad Hygiene</name>
-	<author>Semo</author>
+	<name>Gloomy Extra - Hospital Extension</name>
+	<author>zymex - semo - dr zhivago</author>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
+	<packageId>zymex.GloomyHospitalExtension</packageId>F
 	<description>
 
 	</description>

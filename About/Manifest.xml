@@ -3,16 +3,17 @@
   <version>1.0.0</version>
   <dependencies>
     <li>GloomyFurniture</li>
-    <li>DUB DUB DUB!</li>
   </dependencies>
   <incompatibleWith>
+  <li>ColourfulSterileTiles</li>
   </incompatibleWith>
   <loadAfter>
+  <li>GloomyFurniture</li>
   </loadAfter>
   <suggests>
   </suggests>
   <showCrossPromotions>true</showCrossPromotions>
-  <manifestUri>https://raw.githubusercontent.com/zymex22/Gloomy-Vanilla-overhaul/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/zymex22/Gloomy-Vanilla-overhaul/releases</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/zymex22/Gloomy-Extra-Hospital-Extension/blob/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/zymex22/Gloomy-Extra-Hospital-Extension/releases</downloadUri>
 
 </Manifest>
