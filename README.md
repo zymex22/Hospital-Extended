@@ -4,11 +4,12 @@
   
 Idea behind this mod is to make one complete medical / hospital equipment mod.
 it will focus on 5 ages:
-T0 - Tribal (start / early)(Gloomy style)
-T1 - Medieval (early)(Gloomy style)
-T2 - Industrial Age (mid game)(Gloomy/Steampunk style)
-T3 - Industrial (tech stuff)(Vanilla style)
-T4 - Spacer (high tech / end game) (Vanilla style)
+T0 - Tribal (start / early)
+T1 - Medieval (early)
+T2 - Industrial Age (mid game)
+T3 - Modern (Vanilla style)
+T4 - Robotic (tech stuff)
+T5 - Spacer (high tech / end game)
 
 ### Mod will add:
 - Decor items
@@ -17,7 +18,6 @@ T4 - Spacer (high tech / end game) (Vanilla style)
 - Items
 - Patches/compabilitiy for other medic mods
 - Researches relavant
-- Mod settings to turn of different tiers. (t1, t2, t3)
 
 ### Sugessted Compatible mods for more extension:
 - Vanilla Furniture Expanded - Medical Module
@@ -26,13 +26,10 @@ T4 - Spacer (high tech / end game) (Vanilla style)
 - Medicine
 - Drugs
 - bodyparts...
-
 All items will be focued around hospital stuff, maybe at some point Psych ward / Assylum too
-
-
 Inspiration is from mods like: fast regen, medicaddons, life support, medic IV and more.  
-Theme T0-T2 is made from GloomyLynx Gloomy furniture mod.  
-Theme T3-T4 Will be made in vanilla style textures, as gloomy dosent fit spacer stuff.  
+
+
 
 ## Goal
 Goal is this mod will be a All-in-One Medical Equipment mod instead have to  use 3-8 mods for that.  
@@ -40,31 +37,48 @@ Will still be dependent of of using mods like EPOE, QEE, Medicine production and
   
 Please feel free to contribute to this mod with ideas, work, textures, or other.  
 you can open an issue and we will look at it.  
+
+## Added later (after release)
+- Gloomy texture patch in line with my gloomy vanilla.
+- Final balance (hope most will be done before)
+- More mod patches compatibles
+- There are 1 more mod planned in this series Prison Extended (anyone said prison architecht?)
+
   
 // Made by ATS  
 Augmented Turtle Squad
 
 
-colab mods / credit in here or edited versions:
-- Captain Stakys - Red Sterile Tile https://steamcommunity.com/sharedfiles/filedetails/?id=1273442199
+This mod could not been done without alot of good mod makers mods.
+I thank everyone who have permissioned to use items or mods in this.
+I Suggest you check their work, most of them have a collection of quility mods.
 
-Waiting:
+## Colab mods/items credit in here or edited versions:
 - Sulusdacors - [sd] medicaddons https://steamcommunity.com/sharedfiles/filedetails/?id=786233894
-- Dr Zhivagos - DocWalledVitals https://steamcommunity.com/sharedfiles/filedetails/?id=1580375043
+- Dr Zhivagos, zzz - WalledVitals 
+- Captain Stakys - Red Sterile Tile https://steamcommunity.com/sharedfiles/filedetails/?id=1273442199
+- Proxyer/freepik - Architecht icon/patch https://steamcommunity.com/sharedfiles/filedetails/?id=1966995052
+- Pelador - Medical Supplements (few items) https://steamcommunity.com/sharedfiles/filedetails/?id=2004944243
+- Knight - Medical IV's https://steamcommunity.com/sharedfiles/filedetails/?id=1424438685
+- Cucumpear - LED Light (1 lamp) https://steamcommunity.com/sharedfiles/filedetails/?id=843715469
+
+All mods that are colab in here will be made incompatible if whole mod is used in here.
+Else it will be patches to play nicely with this mod, if only a few items are used like medical iv's
+if you want full control of what part of mod to use, i suggest visit originals and add those you want instead.
+
+
+Waiting to answer colab request:
+- Automatic - Bionic Icons https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980
+(please use hes High quality textures with it: https://steamcommunity.com/sharedfiles/filedetails/?id=1676969930)
+- Suno - Animal medical Bed
+- Daniledman - fast regen
 
 Inspiration and Ideas Credit:
 - VFE Medical Module (wall idea)
-- Gloomy furniture for early ages textures
+- Fast regen bed system
 
-
-maybe/waiting?
-- fast regen
-- Life support
-- Harvest organs post mortem / patch (morgue table with autopsy med. training and/or harvesting)
-- Medical Training (morgue table with autopsy med. training and/or harvesting)
-- Medical IV
-- VFE - medical module patch
-- Glitter world patch
-
-
-
+Others:
+- VFE Medical Module - will prob. just be a patch for it.
+- Life support - ??
+- Harvest organs post mortem -patched into hospital extended system when installed
+- Medical Training -patched into hospital extended system when installed
