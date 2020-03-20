@@ -49,11 +49,10 @@ you can open an issue and we will look at it.
 Augmented Turtle Squad
 
 
+## Colab mods/items credit in here or edited versions:
 This mod could not been done without alot of good mod makers mods.
 I thank everyone who have permissioned to use items or mods in this.
 I Suggest you check their work, most of them have a collection of quility mods.
-
-## Colab mods/items credit in here or edited versions:
 - Sulusdacors - [sd] medicaddons https://steamcommunity.com/sharedfiles/filedetails/?id=786233894
 - Dr Zhivagos, zzz - WalledVitals 
 - Captain Stakys - Red Sterile Tile https://steamcommunity.com/sharedfiles/filedetails/?id=1273442199
