@@ -1,4 +1,4 @@
-# Gloomy Extra - Hospital Extension
+# Hospital Extended
 ![alt text](http://www.foxbyrd.com/wp-content/uploads/2018/02/file-4.jpg "Work in progress")  
 (anything in this mod can be changed at anytime before full release)  
   
