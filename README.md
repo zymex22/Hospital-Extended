@@ -71,7 +71,6 @@ if you want full control of what part of mod to use, i suggest visit originals a
 Waiting to answer colab request:
 - Automatic - Bionic Icons https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980
 (please use hes High quality textures with it: https://steamcommunity.com/sharedfiles/filedetails/?id=1676969930)
-- Suno - Animal medical Bed
 - Daniledman - fast regen
 
 Inspiration and Ideas Credit:
