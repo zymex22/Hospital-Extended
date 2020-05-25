@@ -1,0 +1,37 @@
+<Patch>
+
+    <!--========================= Vanilla Furniture Expanded - Medical Module =============================-->
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="sd_medicaddons.PatchOperationFindMod">
+                <modName>Vanilla Furniture Expanded - Medical Module</modName>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/ThingDef[defName = "Bed_OperatingTable"]/designationCategory</xpath>
+                <value>
+                    <designationCategory>HE_Hospital</designationCategory>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/ThingDef[defName = "Bed_CryptoBed"]/designationCategory</xpath>
+                <value>
+                    <designationCategory>HE_Hospital</designationCategory>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/ThingDef[defName = "Facility_VitalsCentre"]/designationCategory</xpath>
+                <value>
+                    <designationCategory>HE_Hospital</designationCategory>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/ThingDef[defName = "Facility_IVDrip"]/designationCategory</xpath>
+                <value>
+                    <designationCategory>HE_Hospital</designationCategory>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+
+</Patch>

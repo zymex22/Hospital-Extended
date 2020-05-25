@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!--============================== Hospital Menu ==============================-->
+  <DesignationCategoryDef>
+    <defName>HE_Hospital</defName>
+    <label>Hospital</label>
+    <description>Spots for your pawns to rest.</description>
+    <order>725</order>
+    <specialDesignatorClasses>
+      <li>Designator_Cancel</li>
+      <li>Designator_Deconstruct</li>
+      <li>Designator_Uninstall</li>
+    </specialDesignatorClasses>
+  </DesignationCategoryDef>
+
+</Defs>

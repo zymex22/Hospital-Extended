@@ -1,0 +1,19 @@
+<Patch>
+
+    <!--========================= Glitter tech =============================-->
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="sd_medicaddons.PatchOperationFindMod">
+                <modName>Glitter Tech</modName>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/ThingDef[defName = "ambTable"]/designationCategory</xpath>
+                <value>
+                    <designationCategory>HE_Hospital</designationCategory>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+
+</Patch>
