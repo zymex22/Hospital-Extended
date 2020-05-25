@@ -60,6 +60,8 @@ I Suggest you check their work, most of them have a collection of quility mods.
 - Pelador - Medical Supplements (few items) https://steamcommunity.com/sharedfiles/filedetails/?id=2004944243
 - Knight - Medical IV's https://steamcommunity.com/sharedfiles/filedetails/?id=1424438685
 - Cucumpear - LED Light (1 lamp) https://steamcommunity.com/sharedfiles/filedetails/?id=843715469
+- Suno - Animal Medical Bed
+- Syrchalis - [SYR] Glowing Healroot
 
 All mods that are colab in here will be made incompatible if whole mod is used in here.
 Else it will be patches to play nicely with this mod, if only a few items are used like medical iv's
