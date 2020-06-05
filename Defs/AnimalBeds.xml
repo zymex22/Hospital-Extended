@@ -3,7 +3,7 @@
 
   <!--===========Animal bed 1=============-->
   <ThingDef ParentName="FurnitureWithQualityBase">
-    <defName>AnimalMedicBox</defName>
+    <defName>HE_AnimalMedicBox</defName>
     <thingClass>Building_Bed</thingClass>
     <label>Medical Animal Bed</label>
     <description>A Herbal bed that gives a 3x medical boost over normal animal beds. Fits any size animal.</description>
@@ -93,6 +93,7 @@
     <graphicData>
       <texPath>Things/Building/modern/AnimalMedBed</texPath>
       <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
       <drawSize>1.1,1.1</drawSize>
     </graphicData>
     <castEdgeShadows>true</castEdgeShadows>

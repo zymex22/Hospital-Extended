@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ResearchProjectDef>
+    <defName>TranscendentTech</defName>
+    <label>Advanced Exoskeletal Systems</label>
+    <techLevel>Spacer</techLevel>
+    <description>Apply accumulated research knowledge and technologies toward development of an advanced mechanized armature for combat personnel.</description>
+    <baseCost>3000</baseCost>
+    <prerequisites>
+	  <li>PoweredArmor</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+	<researchViewX>10</researchViewX>
+	<researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+
+</Defs>
