@@ -31,6 +31,12 @@
                     <designationCategory>HE_Hospital</designationCategory>
                 </value>
             </li>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/ThingDef[defName = "Facility_ResearchCounter"]/designationCategory</xpath>
+                <value>
+                    <designationCategory>HE_Hospital</designationCategory>
+                </value>
+            </li>
         </operations>
     </Operation>
 
