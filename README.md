@@ -1,5 +1,5 @@
 # Hospital Extended
-![alt text](http://www.foxbyrd.com/wp-content/uploads/2018/02/file-4.jpg "Work in progress")  
+![alt text](https://github.com/zymex22/Hospital-Extended/blob/master/About/Preview.png?raw=true "Work in progress")  
 (anything in this mod can be changed at anytime before full release)  
   
 Idea behind this mod is to make one complete medical / hospital equipment mod.
