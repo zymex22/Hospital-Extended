@@ -21,6 +21,9 @@ T5 - Spacer (high tech / end game)
 
 ### Sugessted Compatible mods for more extension:
 - Vanilla Furniture Expanded - Medical Module
+- Harvest organs post mortem
+- Medical Training
+- Fast Regen
 
 ### Mod will not include:
 - Medicine
@@ -32,18 +35,17 @@ Inspiration is from mods like: fast regen, medicaddons, life support, medic IV a
 
 
 ## Goal
-Goal is this mod will be a All-in-One Medical Equipment mod instead have to  use 3-8 mods for that.  
-Will still be dependent of of using mods like EPOE, QEE, Medicine production and such...  
-  
-Please feel free to contribute to this mod with ideas, work, textures, or other.  
-you can open an issue and we will look at it.  
+Original for this mod was making upon my retextures for gloomy vanilla.
+But with permission from alot of awesome mod creators i started working on a vanilla style all in one Hospital extension instead.
+This mod include alot of great medical mods, and adding some flavour to your hospital.
+It still let you choose your own medical mods like Epoe, Ads and such and only adding in linkables and small visuals or options for beds and decors.
+
+so you dont need 10 mods to add abit flavour to hospitals in RW, im really glad so many mod owners thought this would be a good idea too, and i REALLY think you should all go and see what amazing mods they have more.
 
 ## Added later (after release)
 - Gloomy texture patch in line with my gloomy vanilla.
-- Final balance (hope most will be done before)
+- more balance
 - More mod patches compatibles
-- There are 1 more mod planned in this series Prison Extended (anyone said prison architecht?)
-
   
 // Made by ATS  
 Augmented Turtle Squad
@@ -57,12 +59,14 @@ I Suggest you check their work, most of them have a collection of quility mods.
 - Dr Zhivagos, zzz - WalledVitals 
 - Captain Stakys - Red Sterile Tile https://steamcommunity.com/sharedfiles/filedetails/?id=1273442199
 - Proxyer/freepik - Architecht icon/patch https://steamcommunity.com/sharedfiles/filedetails/?id=1966995052
-- Pelador - Medical Supplements (few items) https://steamcommunity.com/sharedfiles/filedetails/?id=2004944243
 - Knight - Medical IV's https://steamcommunity.com/sharedfiles/filedetails/?id=1424438685
 - Cucumpear - LED Light (1 lamp) https://steamcommunity.com/sharedfiles/filedetails/?id=843715469
 - Suno - Animal Medical Bed https://steamcommunity.com/sharedfiles/filedetails/?id=1925943936
 - Syrchalis - [SYR] Glowing Healroot https://steamcommunity.com/sharedfiles/filedetails/?id=1517921835
 - Pravus - High Tech Laboratory Facilities (1.0/1.1 version by Mlie) https://steamcommunity.com/sharedfiles/filedetails/?id=841760538
+
+## got permission but not included yet:
+- Pelador - Medical Supplements (few items) https://steamcommunity.com/sharedfiles/filedetails/?id=2004944243
 
 All mods that are colab in here will be made incompatible if whole mod is used in here.
 Else it will be patches to play nicely with this mod, if only a few items are used like medical iv's
@@ -76,10 +80,3 @@ Waiting to answer colab request:
 
 Inspiration and Ideas Credit:
 - VFE Medical Module (wall idea)
-- Fast regen bed system
-
-Others:
-- VFE Medical Module - will prob. just be a patch for it.
-- Life support - ??
-- Harvest organs post mortem -patched into hospital extended system when installed
-- Medical Training -patched into hospital extended system when installed
