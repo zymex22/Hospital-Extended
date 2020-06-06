@@ -65,6 +65,8 @@ I Suggest you check their work, most of them have a collection of quility mods.
 - Suno - Animal Medical Bed https://steamcommunity.com/sharedfiles/filedetails/?id=1925943936
 - Syrchalis - [SYR] Glowing Healroot https://steamcommunity.com/sharedfiles/filedetails/?id=1517921835
 - Pravus - High Tech Laboratory Facilities (1.0/1.1 version by Mlie) https://steamcommunity.com/sharedfiles/filedetails/?id=841760538
+- Automatic - Bionic Icons https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980
+(please use hes High quality textures with it: https://steamcommunity.com/sharedfiles/filedetails/?id=1676969930)
 
 ## got permission but not included yet:
 - Pelador - Medical Supplements (few items) https://steamcommunity.com/sharedfiles/filedetails/?id=2004944243
@@ -75,8 +77,6 @@ if you want full control of what part of mod to use, i suggest visit originals a
 
 
 Waiting to answer colab request:
-- Automatic - Bionic Icons https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980
-(please use hes High quality textures with it: https://steamcommunity.com/sharedfiles/filedetails/?id=1676969930)
 - Daniledman - fast regen
 
 Inspiration and Ideas Credit:
