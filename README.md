@@ -32,6 +32,8 @@ T5 - Spacer (high tech / end game)
 All items will be focued around hospital stuff, maybe at some point Psych ward / Assylum too
 Inspiration is from mods like: fast regen, medicaddons, life support, medic IV and more.  
 
+## Install
+Should be save to add to existing games, and also overwrite included mods, just remember to turn off any mod autosort call "incompat" they are already included in this mod =)
 
 
 ## Goal
