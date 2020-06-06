@@ -43,7 +43,6 @@ It still let you choose your own medical mods like Epoe, Ads and such and only a
 so you dont need 10 mods to add abit flavour to hospitals in RW, im really glad so many mod owners thought this would be a good idea too, and i REALLY think you should all go and see what amazing mods they have more.
 
 ## Added later (after release)
-- Gloomy texture patch in line with my gloomy vanilla.
 - more balance
 - More mod patches compatibles
   
