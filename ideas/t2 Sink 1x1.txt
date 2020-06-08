@@ -1,2 +1,0 @@
--cleaness factor
--should work with dubs bad hygiene too
