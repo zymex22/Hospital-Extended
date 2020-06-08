@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
+<!-- ========================== Counter top ======================== -->
   <ThingDef ParentName="BuildingBase">
+    <defName>CounterTopModular</defName>
+    <label>laboratory counter</label>
     <thingClass>Building</thingClass>
     <altitudeLayer>Building</altitudeLayer>
     <description>A convenient countertop surface.</description>
@@ -11,8 +13,6 @@
     <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
     <designationCategory>HE_Hospital</designationCategory>
     <staticSunShadowHeight>0.20</staticSunShadowHeight>
-    <defName>CounterTopModular</defName>
-    <label>laboratory counter</label>
     <uiIconPath>Things/Building/Research/CounterIco</uiIconPath>
     <graphicData>
       <texPath>Things/Building/Research/Counter_Atlas</texPath>
@@ -40,6 +40,7 @@
     <placingDraggableDimensions>2</placingDraggableDimensions>
   </ThingDef>
 
+<!-- ========================== Lab Station ======================== -->
   <ThingDef ParentName="BenchBase">
     <defName>LabStation</defName>
     <label>laboratory station</label>
@@ -115,6 +116,7 @@
     </researchPrerequisites>
   </ThingDef>
 
+<!-- ========================== Lab Terminal ======================== -->
   <ThingDef ParentName="BenchBase">
     <defName>LabTerminal</defName>
     <label>research terminal</label>

@@ -37,6 +37,9 @@
                     <designationCategory>HE_Hospital</designationCategory>
                 </value>
             </li>
+            <li Class="PatchOperationRemove">
+                <xpath>/Defs/ThingDef[defName = "CounterTopModular"]/designationCategory</xpath>
+            </li>
         </operations>
     </Operation>
 
