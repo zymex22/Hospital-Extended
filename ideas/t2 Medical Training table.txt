@@ -1,3 +1,0 @@
-- store dead body
-- autopsy (train medic skill)
-- HPOM patch to use as their autopsy ( chance to get bodyparts)
