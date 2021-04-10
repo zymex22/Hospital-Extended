@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
 
-    <!--========================= Harvest Organs Post Mortem =============================-->
+    <!--========================= [SYR] Prosthetic Table =============================-->
     <Operation Class="PatchOperationSequence">
         <success>Always</success>
         <operations>
             <li Class="sd_medicaddons.PatchOperationFindMod">
-                <modName>Life Support (Fan Update)</modName>
+                <modName>[SYR] Prosthetic Table</modName>
             </li>
             <li Class="PatchOperationReplace">
-                <xpath>/Defs/ThingDef[defName = "QE_LifeSupportSystem"]/designationCategory</xpath>
+                <xpath>/Defs/ThingDef[defName = "TableSyrProsthetics"]/designationCategory</xpath>
                 <value>
                     <designationCategory>HE_Hospital</designationCategory>
                 </value>

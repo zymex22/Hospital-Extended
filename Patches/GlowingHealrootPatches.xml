@@ -19,7 +19,7 @@
   </Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>*/ThingDef[@Name = "HealrootBase"]/graphicData</xpath>
+		<xpath>/Defs/ThingDef[@Name = "HealrootBase"]/graphicData</xpath>
 		<value>
 			<graphicData>
 				<texPath>Things/Plants/Healroot</texPath>
@@ -28,7 +28,7 @@
 	</Operation>
 	
 	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[@Name = "HealrootBase"]</xpath>
+		<xpath>/Defs/ThingDef[@Name = "HealrootBase"]</xpath>
 		<value>
 			<comps>
 			  <li Class="CompProperties_Glower">
